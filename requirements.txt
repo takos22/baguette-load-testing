@@ -1,0 +1,4 @@
+baguette[uvicorn]
+fastapi[all]
+flask[async]
+quart
